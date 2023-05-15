@@ -1,7 +1,7 @@
 # Learning Data Science
 
 
-In this course I learned a lot concepets about machine learning and deep learning, such as:
+In this course I learned a lot of concepets about machine learning and deep learning, such as:
 
 ### Machine Learning
 - Pandas
