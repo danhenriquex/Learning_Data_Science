@@ -1,4 +1,4 @@
-# Learning Data Science
+# Data Science and Machine Learning
 
 
 In this course I learned a lot of concepts about machine learning and deep learning, such as:
